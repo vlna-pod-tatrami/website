@@ -45,7 +45,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/hero-bg.jpg) no-repeat center center fixed;
+  background: url(../assets/bg01.jpeg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -96,7 +96,7 @@ ul.social-links li a {
 }
 ul.social-links li.label {
   font-size: 20px;
-  opacity: 0.6;
+  opacity: 0.6;425679
   font-weight: 400;
 }
 ul.social-links li a:hover {
@@ -293,7 +293,7 @@ h1.heading.pink:after {
 
 /* Footer */
 .footer {
-  background-color: #37324b;
+  background-color: #0b2e4c;
   padding: 5em;
 }
 .footer h1 {
@@ -447,18 +447,6 @@ ul.main-nav.show-it {
   visibility: visible;
   transition-delay: .25s;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Let's optimise it for mobile devices */
 
